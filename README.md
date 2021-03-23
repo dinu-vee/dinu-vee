@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dinu-vee
-- 👀 I’m interested in learning test automation
+- 👀 I am working as a manual tester and really like to learn test automation.
 - 🌱 I’m currently self learning cyapress.io/ JavaScript 
 - 📫 How to reach me ...
 
